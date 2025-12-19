@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+# Binaries
+lvm_manager
+
+# Logs & temp
+*.log
+/mnt/
+
+# VS Code
+.vscode/
