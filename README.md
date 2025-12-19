@@ -4,14 +4,12 @@ This project demonstrates an automated Logical Volume Manager (LVM) extension me
 
 This lab is intended for educational purposes to illustrate LVM administration, monitoring, and automation concepts. It provides hands-on experience with LVM operations, scripting, and system monitoring in a controlled environment.
 
-**Warning:** This lab involves modifying disk partitions and logical volumes. Ensure you are working in a virtual machine or test environment to avoid data loss. Always back up important data before proceeding.
-
----
+--
 
 ## Prerequisites
 
 ### Environment Requirements
-- A Linux virtual machine (e.g., Ubuntu, CentOS, or similar distribution).
+- A Linux virtual machine (e.g., Ubuntu...).
 - LVM tools installed (`lvm2` package).
 - Build tools: `gcc` and `make`.
 - `curl` (optional, for testing network connectivity).
